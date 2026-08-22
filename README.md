@@ -1,4 +1,6 @@
- <div>
-  <a href="https://github.com/wltjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wltjr&layout=compact&langs_count=10&theme=dracula&hide=shell,roff,mask,m4,makefile,perl,apacheconf,emacs+lisp"/>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wltjr&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wltjr&theme=tokyonight" alt="wltjr's top languages by repository count">
+  </picture>
 </div>
