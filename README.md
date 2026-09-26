@@ -1,3 +1,19 @@
+<div style="text-align:center;">
+<pre>
+              $$\   $$\                   
+              $$ |  $$ |                  
+$$\  $$\  $$\ $$ |$$$$$$\   $$\  $$$$$$\  
+$$ | $$ | $$ |$$ |\_$$  _|  \__|$$  __$$\ 
+$$ | $$ | $$ |$$ |  $$ |    $$\ $$ |  \__|
+$$ | $$ | $$ |$$ |  $$ |$$\ $$ |$$ |      
+\$$$$$\$$$$  |$$ |  \$$$$  |$$ |$$ |      
+ \_____\____/ \__|   \____/ $$ |\__|      
+                      $$\   $$ |          
+                      \$$$$$$  |          
+                       \______/           
+</pre>
+</div>
+
 # Hi, I'm wltjr ✌️
 
 Welcome to my GitHub profile! Take a look at my [repos](https://github.com/wltjr?tab=repositories) for various activities, projects, and things of interest. Please, see my [resume](https://github.com/wltjr/resume/releases) for professional information.
