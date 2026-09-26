@@ -1,3 +1,9 @@
+# Hi, I'm wltjr ✌️
+
+Welcome to my GitHub profile! Take a look at my [repos](https://github.com/wltjr?tab=repositories) for various activities, projects, and things of interest. Please, see my [resume](https://github.com/wltjr/resume/releases) for professional information.
+
+## GitHub Details, Stats, and Languages
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wltjr&theme=tokyonight">
